@@ -20,8 +20,9 @@ In this course we learned about the software Git and the plataform GitHub. Which
 To be able to see all the changes that had happend in this repository follow the instructions
 
 1. In your terminal go to the GitGitHub-MMA directory with the command `cd GitGitHub-MMA/`
-2.Run the comand `git log --all --graph --decorate --oneline` to be able to see all the changes in this repository 
-Run the comand `git show-ref --tags` to be able to see all the tags created
+2. Run the comand `gitk` to be able to see the history of this repository in a more graphic representation
+3. Return to your terminal and run the comand `git log --all --graph --decorate --oneline` to be able to see all the changes in this repository 
+4. Run the comand `git show-ref --tags` to be able to see all the tags created
 
 
 ## Output
