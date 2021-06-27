@@ -21,5 +21,7 @@ To be able to see all the changes that had happend in this repository follow the
 
 1. In your terminal go to the GitGitHub-MMA directory with the command `cd GitGitHub-MMA/`
 2.Run the comand `git log --all --graph --decorate --oneline` to be able to see all the changes in this repository 
+Run the comand `git log --all --graph --decorate --oneline` to be able to see all the tags created
+
 
 ## Output
