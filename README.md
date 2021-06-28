@@ -28,3 +28,16 @@ To be able to see all the changes that had happend in this repository follow the
 
 
 ## Output
+
+Changes in this repository
+![Alt text](http://i.imgur.com/JK59Lsr.png?raw=true "Changes")
+
+All tags created
+![Alt text](http://i.imgur.com/6WZFRRh.png?raw=true "Tags")
+
+Blogpost
+![Alt text](http://i.imgur.com/AAKLz6S.png?raw=true "Blogpost")
+
+Commits statistics
+![Alt text](http://i.imgur.com/sUTpFrU.png?raw=true "Commits")
+
