@@ -23,6 +23,8 @@ To be able to see all the changes that had happend in this repository follow the
 2. Run the comand `gitk` to be able to see the history of this repository in a more graphic representation
 3. Return to your terminal and run the comand `git log --all --graph --decorate --oneline` to be able to see all the changes in this repository 
 4. Run the comand `git show-ref --tags` to be able to see all the tags created
+5. Click on [blogpost](https://manjarrezavila.github.io/GitGitHub-MMA/blogpost.html) to see the web site build on GitHub Pages
+
 
 
 ## Output
